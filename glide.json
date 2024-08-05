@@ -1,0 +1,18 @@
+[
+  {
+    "kind": "column",
+    "name": "Generate UULE",
+    "description": "Generates a UULE string for a given geographic location.",
+    "author": "Your Name <your-email@example.com>",
+    "params": [
+      {
+        "name": "location",
+        "displayName": "Location",
+        "type": "string"
+      }
+    ],
+    "result": {
+      "type": "string"
+    }
+  }
+]
